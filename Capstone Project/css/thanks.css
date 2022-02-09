@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #00142a;
+    margin: 0;
+    padding: 0;
+}
+.out{
+    background-color: #23b5b7;
+    height: 25vh;
+    padding: 50px;
+    padding-top: 0;
+}
+.in{
+    background-color: #00142a;
+    height: 100%;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+h1{
+    padding-top: 15px;
+}
+h2{
+    font-size: 25px;
+    padding-top: 10px;
+}
